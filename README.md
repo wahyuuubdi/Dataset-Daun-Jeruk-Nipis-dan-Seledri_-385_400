@@ -20,7 +20,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/wahyuuubdi/Dataset-Daun-Jeruk-Nipis-dan-Seledri_-385_400">
-    <img src="Overview/overview_dataset.jpg" alt="Logo" width="80" height="80">
+    <img src="image/overview_dataset.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Dataset Daun Jeruk dan Seledri</h3>
@@ -159,4 +159,4 @@ Project Link: [https://github.com/wahyuuubdi/Dataset-Daun-Jeruk-Nipis-dan-Seledr
 [license-url]: https://github.com/wahyuuubdi/Dataset-Daun-Jeruk-Nipis-dan-Seledri_-385_400/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/wahyubudiutomo
-[product-screenshot]: Overview/overview_dataset.jpg
+[product-screenshot]: image/overview_dataset.jpg
