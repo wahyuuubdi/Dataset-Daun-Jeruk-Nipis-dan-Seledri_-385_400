@@ -118,9 +118,9 @@ Project ini menjadi wadah bagi semua orang yang ingin belajar tentang image clas
 Jika anda memiliki ide untuk project ini dan ingin segera berkontribusi, kami sangat membuka kesempatan itu untuk kalian. Langkah-langkah untuk berkontribusi dalam project ini adalah sebagai berikut:
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+2. Create your Feature Branch (`git checkout -b`)
+3. Commit your Changes (`git commit -m`)
+4. Push to the Branch (`git push origin`)
 5. Open a Pull Request
 
 <p align="right">(<a href="#top">back to top</a>)</p>
