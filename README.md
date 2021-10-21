@@ -70,18 +70,19 @@ Sehingga, total image yang akan digunakan adalah 100 image
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+Beberapa tools yang kita gunakan dalam melakukan image classification kedepannya adalah seperti berikut:
 
 * [NumPy](https://numpy.org/)
 * [MathplotLib](https://matplotlib.org/)
+* [Python](https://https://www.python.org/)
+* [Numpy](https://numpy.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Langkah-langkah preparation set tools dan library dalam membuat program image classification adalah sebagai berikut: 
 
 ### Prerequisites
 
@@ -112,10 +113,9 @@ This is an example of how to list things you need to use the software and how to
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Project ini menjadi wadah bagi semua orang yang ingin belajar tentang image classification di dalamnya, dengan menyalurkan ide-ide dan kreatifitasnya kedalam project ini.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+Jika anda memiliki ide untuk project ini dan ingin segera berkontribusi, kami sangat membuka kesempatan itu untuk kalian. Langkah-langkah untuk berkontribusi dalam project ini adalah sebagai berikut:
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
