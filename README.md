@@ -156,7 +156,7 @@ Project Link: [https://github.com/wahyuuubdi/Dataset-Daun-Jeruk-Nipis-dan-Seledr
 [issues-shield]: https://img.shields.io/github/issues/wahyuuubdi/Dataset-Daun-Jeruk-Nipis-dan-Seledri_-385_400?style=for-the-badge
 [issues-url]: https://github.com/wahyuuubdi/Dataset-Daun-Jeruk-Nipis-dan-Seledri_-385_400/issues
 [license-shield]: https://img.shields.io/github/license/wahyuuubdi/Dataset-Daun-Jeruk-Nipis-dan-Seledri_-385_400.svg?style=for-the-badge
-[license-url]: https://github.com/wahyuuubdi/Dataset-Daun-Jeruk-Nipis-dan-Seledri_-385_400/blob/master/LICENSE.txt
+[license-url]: https://github.com/wahyuuubdi/Dataset-Daun-Jeruk-Nipis-dan-Seledri_-385_400/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/wahyubudiutomo
 [product-screenshot]: image/overview_dataset.jpg
